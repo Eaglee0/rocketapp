@@ -1,0 +1,15 @@
+altezza
+
+Ecco la formula: 1/2g*t^2 ovvero tempo di caduta elevato alla 2a moltiplicato per metà della costante gravitazionale che è
+9,81 quindi per 4.91; L'altezza che trovi non è molto precisa perchè con l'aria c'è attrito e a volte il razzo non cade
+ perfettamente verticale; Poi se vuoi fare un calcolo più preciso dovresti fare così: Moltiplicare la costante gravitazionale (9,81)
+per il peso del tuo razzo in Kg, così trovi l'accelerazione che subisce il razzo nella caduta, poi moltiplichi metà di ciò che hai
+trovato per il tempo di caduta elevato al quadrato (alla fine risulta: (1/2g*peso razzo in kg)*t^2... Ecco a cosa serve avere 9 in fisica!!
+
+
+paracadute
+
+http://www.acmeitalia.org/tecnica/recupero/dimens_grandi.htm
+http://www.acmeitalia.org/tecnica/recupero/dimens_piccoli.htm
+from math import *
+D = (sqrt(p/100))*100
